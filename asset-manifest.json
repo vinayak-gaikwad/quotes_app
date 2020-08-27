@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quotes_app/static/css/main.7fff5b8b.chunk.css",
+    "main.js": "/quotes_app/static/js/main.5d83463d.chunk.js",
+    "main.js.map": "/quotes_app/static/js/main.5d83463d.chunk.js.map",
+    "runtime-main.js": "/quotes_app/static/js/runtime-main.41740cee.js",
+    "runtime-main.js.map": "/quotes_app/static/js/runtime-main.41740cee.js.map",
+    "static/js/2.3b492db1.chunk.js": "/quotes_app/static/js/2.3b492db1.chunk.js",
+    "static/js/2.3b492db1.chunk.js.map": "/quotes_app/static/js/2.3b492db1.chunk.js.map",
+    "index.html": "/quotes_app/index.html",
+    "precache-manifest.647707757c334fca884e33aca879126c.js": "/quotes_app/precache-manifest.647707757c334fca884e33aca879126c.js",
+    "service-worker.js": "/quotes_app/service-worker.js",
+    "static/css/main.7fff5b8b.chunk.css.map": "/quotes_app/static/css/main.7fff5b8b.chunk.css.map",
+    "static/js/2.3b492db1.chunk.js.LICENSE.txt": "/quotes_app/static/js/2.3b492db1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41740cee.js",
+    "static/js/2.3b492db1.chunk.js",
+    "static/css/main.7fff5b8b.chunk.css",
+    "static/js/main.5d83463d.chunk.js"
+  ]
+}
